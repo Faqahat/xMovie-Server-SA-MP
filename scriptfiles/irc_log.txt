@@ -1,0 +1,3 @@
+
+[2017-09-20] [00:25:47] Bot 1 failed to connect. (No such host is known)
+[2017-09-20] [00:25:47] Bot 2 failed to connect. (No such host is known)

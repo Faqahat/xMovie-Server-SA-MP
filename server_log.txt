@@ -1,0 +1,133 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:25:34] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:25:45] 
+[00:25:45] Server Plugins
+[00:25:45] --------------
+[00:25:45]  Loading plugin: mysql
+[00:25:46] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: irc
+[00:25:46] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: streamer
+[00:25:46] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: sscanf
+[00:25:46] 
+
+[00:25:46]  ===============================
+
+[00:25:46]       sscanf plugin loaded.     
+
+[00:25:46]          Version:  2.8.2        
+
+[00:25:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:25:46]  ===============================
+
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: dns
+[00:25:46] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: geoip
+[00:25:46] GeoIP_Plugin got loaded.
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: audio
+[00:25:46] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[00:25:46]   Loaded.
+[00:25:46]  Loading plugin: Whirlpool
+[00:25:46]  
+[00:25:46]  ==================
+[00:25:46]  
+[00:25:46]   Whirlpool loaded
+[00:25:46]  
+[00:25:46]  ==================
+[00:25:46]  
+[00:25:46]   Loaded.
+[00:25:46]  Loaded 8 plugins.
+
+[00:25:46] 
+[00:25:46] Filterscripts
+[00:25:46] ---------------
+[00:25:46]   Loading filterscript 'irc.amx'...
+[00:25:46] *** Audio Plugin: Started TCP server on port 7777
+[00:25:46] [MYSQL] Succesfully connected to MySQL database (IRC fs).
+[00:25:46]   Loading filterscript 'mdebug.amx'...
+[00:25:46] 
+  *********************
+  * SA:MP DEBUG 2.0   *
+[00:25:46]   * By Simon Campbell *
+  *********************
+[00:25:46]   * Version: 2.0      *
+  *********************
+[00:25:46]   * -- LOADED         *
+  *********************
+
+[00:25:46]   Loading filterscript 'FingexMapEditor.amx'...
+[00:25:46] >> The FingeX Map Editor has been LOADED.
+[00:25:46]   Loading filterscript 'anim.amx'...
+[00:25:46]   Loading filterscript 'sanim.amx'...
+[00:25:46]   Loading filterscript 'yrace.amx'...
+[00:25:46] 
++--------------------------------+
+[00:25:46] | Yagu's Race Filterscript v0.4a |
+[00:25:46] +--------------LOADED------------+
+
+[00:25:46]   Loaded 6 filterscripts.
+
+[00:25:46] [INITIALIZE] Gamemode loaded.
+[00:25:46] [INITIALIZE] Starting xMovie logging.
+[00:25:46] [MYSQL] Successful connection to MySQL database.
+[00:25:46] *** Audio_SetPack: Audio pack set to "xmovie_pack" (transferable and automated)
+[00:25:46]   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ x&Movie ©® ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[00:25:46] Number of vehicle models: 11
+[00:26:23] [connection] 127.0.0.1:62117 requests connection cookie.
+[00:26:24] [connection] incoming connection: 127.0.0.1:62117 id: 0
+[00:26:24] [join] [BR]Gumball has joined the server (0:127.0.0.1)
+[00:26:24] [JOIN] [BR]Gumball has joined the server.
+[00:26:24] [ADM-MSG] [0] [BR]Gumball's IP: 127.0.0.1 | Host: Faqahat-LAP | Country: 
+[00:26:41] [CMD] [BR]Gumball issues command /copchase
+[00:27:31] [CMD] [BR]Gumball issues command /credits
+[00:27:36] [CMD] [BR]Gumball issues command /help
+[00:27:53] [CMD] [BR]Gumball issues command /help
+[00:27:58] [CMD] [BR]Gumball issues command /updates
+[00:28:25] [CMD] [BR]Gumball issues command /dm1
+[00:28:27] [CMD] [BR]Gumball issues command /dm 1
+[00:42:10] [KILL] [BR]Gumball killed himself
+[00:42:10] [death] [BR]Gumball died 255
+[00:49:57] [PART] [BR]Gumball has left the server. (Leaving)
+[00:49:57] [part] [BR]Gumball has left the server (0:1)
